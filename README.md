@@ -325,6 +325,7 @@ and between 1 and 25 characters. Your `__init__` method should receive a default
 argument for `name`.
     - If the name is invalid, the setter method should `print()` "Name must be
 string between 1 and 25 characters."
+
 2. Define a `breed` property for your `Dog` class. Your `__init__` method should
    receive a default argument for `breed`.
     - If the breed is invalid, the setter method should `print()` "Breed must be
